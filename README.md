@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello!
+Current projects:
+- exercise-generator: a Flutter app for generating workouts for people like me who hate exercising
+- stomach-tracker: a Flutter app for logging what goes in and out of your stomach to help with identifying food intolerances
+- personal website: the first step in my long journey of learning about web dev :)
 
 <!--
 **helenxuyang/helenxuyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
