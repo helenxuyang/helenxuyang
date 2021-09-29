@@ -3,7 +3,7 @@ My name is Helen and I'm a CS student interested in app/web development and acce
 
 Currently working on:
 - [carriage-rider](https://github.com/cornell-dti/carriage-driver), [carriage-driver](https://github.com/cornell-dti/carriage-driver), and [carriage-web](https://github.com/cornell-dti/carriage-web) for [Cornell DTI](https://www.cornelldti.org/)
-- [my portfolio site](https://github.com/helenxuyang/portfolio) made with React 
+- [my portfolio site](https://github.com/helenxuyang/helenxuyang.github.io) made with React 
 - random personal projects here and there like [Zoom University](https://github.com/helenxuyang/zoom-university), a site for keeping track of Zoom class links that will be repurposed as a school planner now that we're finally done with Zoom classes, and [Minesweeper](https://github.com/helenxuyang/minesweeper) just for fun
 
 <!--
