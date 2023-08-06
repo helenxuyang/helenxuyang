@@ -1,10 +1,11 @@
-### Hello!
-My name is Helen and I'm a CS student interested in app/web development and accessibility. I'm most familiar with Flutter and React, but am hoping to learn about other platforms and frameworks. I'm currently (June-Dec 2021) taking a software engineering co-op with the accessibility team at Curriculum Associates!
+# About
+Hello! My name is Helen. I graduated from Cornell University in 2023 and am now a frontend software developer with an interest in web/app development and accessibility. I primarily have experience with React and Flutter.
 
-Currently working on:
-- [carriage-rider](https://github.com/cornell-dti/carriage-driver), [carriage-driver](https://github.com/cornell-dti/carriage-driver), and [carriage-web](https://github.com/cornell-dti/carriage-web) for [Cornell DTI](https://www.cornelldti.org/)
-- [my portfolio site](https://github.com/helenxuyang/helenxuyang.github.io) made with React 
-- random personal projects here and there like [Zoom University](https://github.com/helenxuyang/zoom-university), a site for keeping track of Zoom class links that will be repurposed as a school planner now that we're finally done with Zoom classes, and [Minesweeper](https://github.com/helenxuyang/minesweeper) just for fun
+# Projects
+I'm currently working on some random side projects such as:
+* scioly_event_matcher: Tool for assigning event supervisors for Science Olympiad at Cornell
+* various apps for me to 1. use in my everyday life and 2. learn about modern Android development 😄
+
 
 <!--
 **helenxuyang/helenxuyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
